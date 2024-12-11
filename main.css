@@ -10,8 +10,8 @@
     background-color: rgb(63, 202, 63);
   }
   
-  .bg {
-    background-image: url("/images/urban-vintage-78A265wPiO4-unsplash.jpg");
+  body {
+    background-color: rgb(29, 74, 29);
   }
 
   .text {
