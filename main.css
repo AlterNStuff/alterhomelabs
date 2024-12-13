@@ -14,7 +14,7 @@
     background-color: rgb(47, 64, 46);
     display: flex;
     flex-wrap: nowrap;
-    flex-direction: reverse-column;
+    flex-direction: column;
   }
   
   body {
@@ -30,6 +30,7 @@
     margin-top: 50px;
     margin-left: 580px;
     margin-right: 580px;
+    display: flex;
   }
 
   #aboutme {
