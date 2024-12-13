@@ -14,7 +14,7 @@
     background-color: rgb(47, 64, 46);
     display: flex;
     flex-wrap: nowrap;
-    flex-direction: column;
+    flex-direction: reverse-column;
   }
   
   body {
