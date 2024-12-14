@@ -6,6 +6,7 @@
     background-color: rgb(47, 64, 46);
     padding: 20px;
     width: 580px;
+    margin-top: 50px;
   }
   
   body {
@@ -28,7 +29,7 @@
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
-    margin: 20px 580px 0 580px;
+    margin: 20px 10px 0 10px;
   }
 
   .col {
