@@ -26,7 +26,7 @@
 
    .flexbox {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: center;
     margin: 20px 10px 0 10px;
   }
