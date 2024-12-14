@@ -1,19 +1,11 @@
-#main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 200px 10px 0 10px;
-}
 
 .box {
     border: 1px solid rgb(47, 64, 46);
-    padding: 20px;
-    text-align: center;
     border-radius: 10px;
     box-shadow: 5px 5px 40px rgb(11, 32, 5);
     background-color: rgb(47, 64, 46);
-    display: flex;
-    flex-direction: column;
+    padding: 20px;
+    width: 580px;
   }
   
   body {
@@ -23,54 +15,32 @@
   .text {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: azure;
-  }
-
-  #Intro {
-    margin-top: 50px;
-    margin-left: 580px;
-    margin-right: 580px;
-  }
-
-  #aboutme {
-    margin-top: 40px;
-    margin-left: 580px;
-    margin-right: 580px;
-    display: flex;
-    flex-direction: row;
-    text-align: left;
+    text-align: center;
   }
 
   #profilepic {
-    margin-right: 350px;
-    margin-top: 20px;
     height: 120px;
     width:  120px;
     border-radius: 9999px;
   }
 
-  .picalign {
-    margin-right: -320px;
-    margin-top: -10px;
+   .flexbox {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 20px 10px 0 10px;
   }
 
-  .colflex {
-    flex-direction: column;
+  .col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #aboutme {
+    padding-left: 20px;
   }
 
-  #aboutsite {
-    margin-top: 40px;
-    margin-left: 580px;
-    margin-right: 580px;
-  }
-
-  #notablementions {
-    margin-top: 40px;
-    margin-left: 580px;
-    margin-right: 580px;
-  }
-
-  .link:link {
-      color: green;
-      background-color: transparent;
-      text-decoration: none;
+  .txtl {
+    text-align: start;
   }
