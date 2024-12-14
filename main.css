@@ -5,7 +5,7 @@
     box-shadow: 5px 5px 40px rgb(11, 32, 5);
     background-color: rgb(47, 64, 46);
     padding: 20px;
-    width: 50px;
+    width: 580px;
   }
   
   body {
@@ -28,7 +28,7 @@
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
-    margin: 20px 10px 0 10px;
+    margin: 20px 580px 0 580px;
   }
 
   .col {
