@@ -26,9 +26,9 @@
 
    .flexbox {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: center;
-    margin: 100px 580px 0 580px;
+    margin: 20px 10px 0 10px;
   }
 
   .col {
