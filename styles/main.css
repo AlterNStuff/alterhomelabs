@@ -24,16 +24,22 @@
     border-radius: 9999px;
   }
 
-   .flexbox {
+   .flex {
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
-    margin: 20px 10px 0 10px;
   }
 
-  .col {
+  .flex-col {
     display: flex;
+    flex-direction: column;
+  }
+
+  .flex-centre {
     justify-content: center;
+  }
+
+  .flex-items-centre {
     align-items: center;
   }
   
