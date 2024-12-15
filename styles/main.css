@@ -28,7 +28,6 @@
    .flex {
     display: flex;
     flex-wrap: nowrap;
-    justify-content: center;
   }
 
   .flex-col {
