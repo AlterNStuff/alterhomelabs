@@ -37,6 +37,10 @@
     align-items: center;
   }
 
+  .text-start {
+    text-align: start;
+  }
+
   /*IDs*/
   #profilepic {
     height: 120px;
